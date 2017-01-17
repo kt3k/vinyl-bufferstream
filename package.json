@@ -29,17 +29,17 @@
     "helper"
   ],
   "dependencies": {
-    "bufferstreams": "1.0.1"
+    "bufferstreams": "1.1.1"
   },
   "devDependencies": {
-    "eslint": "^1.10.3",
+    "eslint": "^3.13.1",
     "istanbul": "^0.4.2",
     "istanbul-coveralls": "^1.0.1",
-    "jscs": "^2.8.0",
+    "jscs": "^3.0.7",
     "simple-bufferstream": "^1.0.0",
     "tap-spec": "^4.1.1",
     "tape": "^4.4.0",
-    "vinyl": "^1.1.0"
+    "vinyl": "^2.0.1"
   },
   "jscsConfig": {
     "preset": "google",
